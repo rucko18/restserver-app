@@ -1,6 +1,6 @@
 ## App RESTService
 
-Usando node curso de NodeJS
+Usando nodeJS curso de Udemy
 
 ```
 npm install
